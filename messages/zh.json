@@ -1,0 +1,521 @@
+{
+  "common": {
+    "requestQuote": "Request Quote",
+    "requestAQuote": "Request a Quote",
+    "browseProducts": "Browse Products",
+    "viewAll": "View All",
+    "contact": "Contact",
+    "send": "Send",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "download": "Download",
+    "back": "Back",
+    "home": "Home",
+    "products": "Products",
+    "industries": "Industries",
+    "solutions": "Solutions",
+    "about": "About",
+    "resources": "Resources",
+    "viewAllValves": "View All 11 Valve Families",
+    "skuCount": "+ SKUs",
+    "standards": "Standards",
+    "toggleMenu": "Toggle menu",
+    "accessibility": "Toggle menu"
+  },
+  "nav": {
+    "brand": "ValveMaster",
+    "products": "Products",
+    "industries": "Industries",
+    "solutions": "Solutions",
+    "about": "About",
+    "resources": "Resources",
+    "contact": "Contact",
+    "requestQuote": "Request Quote",
+    "requestAQuote": "Request a Quote",
+    "viewAll": "View all {item}"
+  },
+  "footer": {
+    "description": "Industrial flow control engineering for oil & gas, chemical, water treatment, and power generation industries worldwide.",
+    "products": "Products",
+    "industries": "Industries",
+    "company": "Company",
+    "resources": "Resources",
+    "aboutUs": "About Us",
+    "factoryTour": "Factory Tour",
+    "certificates": "Certificates",
+    "caseStudies": "Case Studies",
+    "blog": "Blog",
+    "productCatalog": "Product Catalog",
+    "datasheets": "Technical Datasheets",
+    "cadDrawings": "CAD Drawings",
+    "installGuides": "Installation Guides",
+    "requestQuote": "Request Quote",
+    "email": "sales@valvemaster.com",
+    "phone": "+86 138 0000 0000",
+    "address": "Industrial Zone, Wenzhou, Zhejiang, China",
+    "certified": "Certified:",
+    "copyright": "© {year} ValveMaster Industrial Co., Ltd. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "home": {
+    "hero": {
+      "badge": "ISO 9001 - API 6D - CE Certified",
+      "title1": "Industrial Flow Control",
+      "title2": "Engineering Platform",
+      "subtitle": "12,000+ valve SKUs across 11 product families. Pneumatic, electric, manual actuation. PN10 to Class 2500. Flanged, threaded, weld-end.",
+      "trust1": "47 Countries Exported",
+      "trust2": "18 Years Experience",
+      "trust3": "99.3% On-Time Delivery"
+    },
+    "categories": {
+      "title1": "11 Valve Families.",
+      "title2": "12,000+ SKUs.",
+      "subtitle": "From precision instrument valves to heavy-duty pipeline isolation - every combination of actuation, material, connection, and pressure class."
+    },
+    "industries": {
+      "title": "Built for the World's Toughest Industries",
+      "subtitle": "Each industry demands specific standards, pressure ratings, and materials. We speak the language of your engineering specification."
+    },
+    "stats": {
+      "title1": "Engineering Trust,",
+      "title2": "Delivered Globally",
+      "subtitle": "From a single precision needle valve to a complete pipeline isolation package - every product ships with full documentation, material certification, and third-party inspection reports.",
+      "check1": "Full material traceability certificates (MTC/Mill certs)",
+      "check2": "Third-party inspection available: SGS, Bureau Veritas, TUV",
+      "check3": "Hydrostatic shell & seat test per API/ASME standards",
+      "check4": "Custom engineering for non-standard specifications",
+      "since": "Since {year}"
+    },
+    "parameters": {
+      "title1": "Find Your Valve by Exact Specification",
+      "subtitle": "Our parametric catalog generates precise product pages for every combination of actuation, material, connection, and pressure class. Search the way engineers search.",
+      "actuation": "Actuation Type",
+      "material": "Body Material",
+      "pressure": "Pressure Rating",
+      "popular": "Popular Search Combinations"
+    },
+    "rfq": {
+      "title": "Request a Technical Quote",
+      "subtitle": "Share your specifications and our engineers will respond within 4 business hours with a detailed technical proposal.",
+      "feature1Title": "4hr Response",
+      "feature1Desc": "Technical review and initial pricing within 4 business hours",
+      "feature2Title": "Full Documentation",
+      "feature2Desc": "Datasheet, DWG files, and material cert included",
+      "feature3Title": "MOQ Flexibility",
+      "feature3Desc": "From single prototype valve to bulk OEM orders",
+      "whatsapp": "Chat on WhatsApp",
+      "success": "Quote Request Sent!",
+      "successMsg": "Our engineering team will review your requirements and respond within 4 business hours.",
+      "error": "Failed to send. Please try again or contact us via WhatsApp.",
+      "nameLabel": "Full Name",
+      "companyLabel": "Company",
+      "emailLabel": "Email Address",
+      "phoneLabel": "Phone / WhatsApp",
+      "countryLabel": "Country",
+      "messageLabel": "Valve Specification / Requirements",
+      "namePlaceholder": "John Smith",
+      "companyPlaceholder": "Acme Industries Ltd",
+      "emailPlaceholder": "john@company.com",
+      "phonePlaceholder": "+1 555 000 0000",
+      "countryPlaceholder": "United States",
+      "messagePlaceholder": "e.g. 50x Ball Valve, Pneumatic, 316L SS, Flanged PN16, 2 inch, for chemical service...",
+      "sendButton": "Send Quote Request"
+    }
+  },
+  "products": {
+    "index": {
+      "title": "Industrial Valve Products",
+      "titleGradient": "Products",
+      "subtitle": "12,000+ SKU catalog. Every valve type, material, actuation, and pressure class in one platform.",
+      "allActuation": "All Actuation",
+      "allMaterial": "All Material"
+    },
+    "detail": {
+      "overview": "Overview",
+      "description": "ValveMaster manufactures industrial {name}s with {count}+ standard SKU configurations, covering all major actuation methods, body materials, end connections, and pressure ratings per international standards including ASME, API, EN, ISO, and JIS.",
+      "configurations": "Available Configurations",
+      "materialOptions": "Body Material Options",
+      "materialCol": "Material",
+      "gradeCol": "Grade",
+      "serviceCol": "Typical Service",
+      "pressureRatings": "Pressure Ratings",
+      "applications": "Industry Applications",
+      "datasheet": "{name} Datasheet",
+      "service316l": "Chemical, Pharmaceutical, Marine",
+      "serviceWCB": "General Purpose, Oil & Gas, Steam",
+      "serviceDuplex": "Offshore, Seawater, High Corrosion",
+      "servicePVC": "Water Treatment, Chemical Handling",
+      "serviceCF8M": "Food Grade, Hygienic, High-Temp",
+      "sidebarRFQ": "Get a Quote",
+      "sidebarRFQDesc": "Specify your exact requirements and receive a technical proposal within 4 hours.",
+      "sidebarDownloads": "Downloads",
+      "sidebarCatalog": "Product Catalog",
+      "sidebarCAD2D": "2D CAD Drawing",
+      "sidebarCAD3D": "3D Model",
+      "sidebarRelated": "Related Products"
+    },
+    "attribute": {
+      "specifications": "Technical Specifications",
+      "paramCol": "Parameter",
+      "valueCol": "Value / Standard",
+      "valveType": "Valve Type",
+      "designStandard": "Design Standard",
+      "bodyMaterial": "Body Material",
+      "trimMaterial": "Trim Material",
+      "connection": "Connection Type",
+      "connectionStandard": "Connection Standard",
+      "sizeRange": "Size Range",
+      "pressureRating": "Pressure Rating",
+      "testPressure": "Test Pressure (Shell)",
+      "temperature": "Temperature Range",
+      "leakageClass": "Leakage Class",
+      "operation": "Operation",
+      "certification": "Certification",
+      "designStandardVal": "API 6D, ASME B16.34, ISO 17292",
+      "trimMaterialVal": "316 SS, Stellite 6 Seat",
+      "leakageVal": "Class VI (Bubble-tight)",
+      "temperatureVal": "-29°C to +200°C (standard)",
+      "sizeRangeVal": "DN15 (1/2\") - DN300 (12\")",
+      "bodyMaterialFallback": "WCB / 304 SS / 316L SS",
+      "connectionFallback": "Flanged / Threaded / Welded",
+      "connectionStdFallback": "ASME B16.5 / B16.11 / B16.25",
+      "pressureFallback": "PN16 / PN40 / Class 150 / Class 300",
+      "operationFallback": "Manual / Pneumatic / Electric",
+      "certificationVal": "API 6D, CE PED 2014/68/EU, ISO 9001",
+      "testPressureFallback": "1.5x Rated",
+      "materialOptions": "Available Material Options",
+      "corrosionCol": "Corrosion Resistance",
+      "tempCol": "Temperature",
+      "bestForCol": "Best For",
+      "superior": "Superior",
+      "excellent": "Excellent",
+      "good": "Good",
+      "moderate": "Moderate",
+      "industryApps": "Industry Applications",
+      "relatedHeading": "Explore {name} Variations",
+      "sidebarQuoteTitle": "Request a Quote",
+      "sidebarQuoteDesc": "Get pricing for {title}",
+      "sidebarTechTitle": "Technical Downloads",
+      "sidebarCatalogPDF": "Product Catalog (PDF)",
+      "sidebarCAD": "Dimensional Drawing (CAD)",
+      "sidebarMaterialCert": "Material Certificate Sample",
+      "sidebarInspection": "Inspection Report Sample",
+      "downloadLink": "↓ Download",
+      "standardOp": "standard operation",
+      "industryStd": "industry standard",
+      "durability": "for superior durability"
+    }
+  },
+  "solutions": {
+    "badge": "Industry Solutions",
+    "title1": "Engineered for",
+    "title2": "Your Industry",
+    "subtitle": "From upstream oil platforms to pharmaceutical cleanrooms - we deliver certified valve solutions tailored to your operational environment.",
+    "viewSolution": "View Solution",
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "ctaTitle": "Don't See Your Industry?",
+    "ctaSubtitle": "We engineer custom valve solutions for niche industrial applications. Contact our engineering team with your specifications.",
+    "ctaButton": "Request Custom Solution",
+    "industries": {
+      "oil-gas": {
+        "name": "Oil & Gas",
+        "tagline": "API-Rated Valves for Upstream, Midstream & Downstream",
+        "challenge": "Extreme pressures, corrosive media (H2S), and strict API compliance.",
+        "benefit": "API 6D certified valves with NACE MR0175 compliance for sour service."
+      },
+      "chemical": {
+        "name": "Chemical & Petrochemical",
+        "tagline": "Corrosion-Resistant Valves for Aggressive Media",
+        "challenge": "Aggressive chemicals, temperature cycling, and ATEX zone requirements.",
+        "benefit": "PTFE/PFA lined valves with ATEX certification for hazardous environments."
+      },
+      "water-treatment": {
+        "name": "Water & Wastewater",
+        "tagline": "Reliable Flow Control for Municipal & Industrial Water Systems",
+        "challenge": "Large-diameter pipelines, low maintenance, and drinking water safety.",
+        "benefit": "WRAS/NSF 61 approved valves with extended service life for municipal systems."
+      },
+      "power-generation": {
+        "name": "Power Generation",
+        "tagline": "High-Pressure High-Temperature Valves for Power Plants",
+        "challenge": "Ultra-high temperatures, steam pressure cycling, and HRSG compatibility.",
+        "benefit": "ASME Class 900-2500 HP/HT valves for supercritical and combined cycle plants."
+      },
+      "pharmaceutical": {
+        "name": "Pharmaceutical & Food",
+        "tagline": "Hygienic Valves Meeting GMP & FDA Standards",
+        "challenge": "Zero contamination, CIP/SIP compatibility, and strict FDA/GMP compliance.",
+        "benefit": "3-A sanitary & EHEDG certified hygienic valves with full traceability."
+      },
+      "marine": {
+        "name": "Marine & Offshore",
+        "tagline": "DNV/BV-Certified Valves for Harsh Marine Environments",
+        "challenge": "Saltwater corrosion, vibration, and classification society certification.",
+        "benefit": "DNV-GL & BV type-approved valves in duplex/super duplex for offshore service."
+      }
+    }
+  },
+  "industries": {
+    "index": {
+      "title1": "Valves for Every",
+      "title2": "Critical Industry",
+      "subtitle": "Each industry has its own language. We speak it fluently - from API 6D pipeline specifications to FDA sanitary standards."
+    },
+    "detail": {
+      "challenges": "Engineering Challenges",
+      "challengesSubtitle": "Key operational challenges we address with certified valve engineering.",
+      "recommended": "Recommended Valve Types",
+      "recommendedSubtitle": "Engineered selections for {name} applications.",
+      "certs": "Industry Certifications",
+      "ctaTitle": "Need a Custom Solution for {name}?",
+      "ctaSubtitle": "Our engineering team designs valves to your exact specifications. Submit your requirements and get a response within 24 hours.",
+      "submitRFQ": "Submit RFQ",
+      "contactSales": "Contact Sales",
+      "contactEngineer": "Contact Engineer",
+      "viewProduct": "View Product",
+      "browseAll": "Browse All {name} Valves",
+      "standardCount": "{count} Standards",
+      "valveSolutions": "Valve Solutions",
+      "backHome": "Home",
+      "backIndustries": "Industries"
+    },
+    "data": {
+      "oil-gas": {
+        "name": "Oil & Gas",
+        "tagline": "API-Rated Valves for Upstream, Midstream & Downstream",
+        "challenge": "Operating in extreme pressure, temperature, and corrosive environments requires valves that meet the highest industry standards.",
+        "pain1Title": "Sour Service (H2S)",
+        "pain1Desc": "NACE MR0175 compliance for hydrogen sulfide-rich environments in upstream production.",
+        "pain2Title": "High Pressure Cycling",
+        "pain2Desc": "API 6D rated valves handling pressure surges in pipeline transmission.",
+        "pain3Title": "Remote Operation",
+        "pain3Desc": "Pneumatic and electric actuated valves for unmanned offshore platforms.",
+        "valve-ball-valve": "Trunnion-mounted design for pipeline isolation up to Class 2500",
+        "valve-gate-valve": "Full-bore conduit gate valves for pigging operations",
+        "valve-check-valve": "API 594 dual-plate check valves for flow reversal prevention",
+        "valve-globe-valve": "Y-pattern globe valves for severe service throttling",
+        "valve-control-valve": "Cage-guided control valves for precise flow regulation"
+      },
+      "chemical": {
+        "name": "Chemical & Petrochemical",
+        "tagline": "Corrosion-Resistant Valves for Aggressive Media",
+        "challenge": "Aggressive chemical media, extreme temperature ranges, and explosion-proof requirements demand specialized valve solutions.",
+        "pain1Title": "Corrosion Attack",
+        "pain1Desc": "PTFE/PFA lined valves preventing chemical attack on valve body and trim.",
+        "pain2Title": "ATEX Compliance",
+        "pain2Desc": "Electro-pneumatic actuators certified for Zone 1 & 2 hazardous areas.",
+        "pain3Title": "Thermal Cycling",
+        "pain3Desc": "Fire-safe design maintaining seal integrity during emergency shutdown.",
+        "valve-ball-valve": "Fully lined ball valves with anti-static device for flammable media",
+        "valve-butterfly-valve": "PTFE lined butterfly valves for large-diameter corrosive service",
+        "valve-diaphragm-valve": "Weir-type diaphragm valves for clean chemical dosing",
+        "valve-plug-valve": "PTFE sleeved plug valves for zero-leakage isolation",
+        "valve-relief-valve": "Spring-loaded safety relief valves for overpressure protection"
+      },
+      "water-treatment": {
+        "name": "Water & Wastewater",
+        "tagline": "Reliable Flow Control for Municipal & Industrial Water Systems",
+        "challenge": "Municipal and industrial water systems need reliable, long-service-life valves with drinking water safety certification.",
+        "pain1Title": "Drinking Water Safety",
+        "pain1Desc": "WRAS/NSF 61 approved materials preventing contamination of potable water.",
+        "pain2Title": "Low Headloss",
+        "pain2Desc": "Eccentric butterfly valves with optimized disc profile for minimal pressure drop.",
+        "pain3Title": "Buried Service",
+        "pain3Desc": "Extended stem and gearbox options for valves installed below ground.",
+        "valve-gate-valve": "Resilient seated gate valves for main water distribution lines",
+        "valve-butterfly-valve": "Double-eccentric butterfly valves for treatment plant isolation",
+        "valve-check-valve": "Swing check valves with lever & weight for pump discharge",
+        "valve-knife-gate-valve": "Slurry knife gate valves for sludge and wastewater handling",
+        "valve-control-valve": "Globe-type control valves for flow and pressure regulation"
+      },
+      "power-generation": {
+        "name": "Power Generation",
+        "tagline": "High-Pressure High-Temperature Valves for Power Plants",
+        "challenge": "Supercritical steam conditions, high-pressure feedwater, and HRSG compatibility require ASME-certified HP/HT valves.",
+        "pain1Title": "Supercritical Steam",
+        "pain1Desc": "ASME Class 900-2500 valves for main steam isolation at 600°C+.",
+        "pain2Title": "HRSG Integration",
+        "pain2Desc": "High-cycle valves designed for combined cycle plant heat recovery systems.",
+        "pain3Title": "Feedwater Control",
+        "pain3Desc": "Multi-stage pressure reducing valves for boiler feed pump recirculation.",
+        "valve-globe-valve": "Pressure-seal bonnet globe valves for high-pressure steam service",
+        "valve-gate-valve": "Flex-wedge gate valves for main steam isolation",
+        "valve-check-valve": "Tilting disc check valves for turbine extraction lines",
+        "valve-control-valve": "Cage-guided control valves with noise attenuation trim",
+        "valve-relief-valve": "ASME Section I safety valves for boiler drum protection"
+      },
+      "pharmaceutical": {
+        "name": "Pharmaceutical & Food",
+        "tagline": "Hygienic Valves Meeting GMP & FDA Standards",
+        "challenge": "Sterile processing environments demand zero dead-leg valves with CIP/SIP compatibility and full material traceability.",
+        "pain1Title": "Sterility Assurance",
+        "pain1Desc": "Zero dead-leg diaphragm valves preventing microbial growth in process lines.",
+        "pain2Title": "CIP/SIP Compatibility",
+        "pain2Desc": "Fully drainable valve bodies designed for clean-in-place and steam-in-place cycles.",
+        "pain3Title": "Material Traceability",
+        "pain3Desc": "EN 10204 3.1 certified materials with full heat number traceability.",
+        "valve-diaphragm-valve": "Weir-type diaphragm valves for sterile media transfer",
+        "valve-ball-valve": "Full-bore 3-A sanitary ball valves for WFI and pure steam",
+        "valve-butterfly-valve": "Sanitary butterfly valves for large-diameter tank outlets",
+        "valve-check-valve": "Spring-loaded sanitary check valves for WFI distribution",
+        "valve-sampling-valve": "Aseptic sampling valves for QA/QC process validation"
+      },
+      "marine": {
+        "name": "Marine & Offshore",
+        "tagline": "DNV/BV-Certified Valves for Harsh Marine Environments",
+        "challenge": "Offshore and marine environments subject valves to salt spray, vibration, and classification society requirements.",
+        "pain1Title": "Saltwater Corrosion",
+        "pain1Desc": "Duplex and super duplex stainless steel resisting pitting in marine atmospheres.",
+        "pain2Title": "Class Approval",
+        "pain2Desc": "DNV-GL, BV, and Lloyd's Register type-approved valves for vessel installation.",
+        "pain3Title": "Compact Design",
+        "pain3Desc": "Wafer and lug body designs saving weight and space in pipe galleries.",
+        "valve-butterfly-valve": "DNV type-approved wafer butterfly valves for ballast & bilge systems",
+        "valve-ball-valve": "Fire-safe ball valves for fuel oil and lube oil service",
+        "valve-gate-valve": "Bronze gate valves for seawater cooling systems",
+        "valve-check-valve": "Swing check valves for pump discharge on FPSO topsides",
+        "valve-globe-valve": "Angle pattern globe valves for high-pressure steam on LNG carriers"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Our Engineering Team",
+    "subtitle": "Sales, technical support, and custom specifications. We respond within 4 business hours.",
+    "emailLabel": "Email Sales",
+    "phoneLabel": "Phone / WhatsApp",
+    "addressLabel": "Factory Address",
+    "hoursLabel": "Business Hours",
+    "email": "sales@valvemaster.com",
+    "phone": "+86 138 0000 0000",
+    "address": "Industrial Zone, Wenzhou, Zhejiang 325000, China",
+    "hours": "Mon - Fri, 8:00am - 6:00pm (GMT+8)",
+    "mapTitle": "Interactive map",
+    "mapSubtitle": "Wenzhou, Zhejiang, China"
+  },
+  "rfq": {
+    "pageTitle": "Request a Technical Quote",
+    "pageSubtitle": "Share your valve specification and our engineers will respond within 4 business hours with pricing and documentation."
+  },
+  "seo": {
+    "siteName": "ValveMaster",
+    "defaultTitle": "Industrial Flow Control Engineering Platform | ValveMaster",
+    "defaultDesc": "Leading manufacturer of industrial valves for oil & gas, chemical, water treatment, and power industries. Ball valves, gate valves, butterfly valves - API, CE, ISO 9001 certified.",
+    "home": {
+      "title": "Industrial Flow Control Engineering Platform | ValveMaster",
+      "desc": "World-class industrial valve manufacturer. 12,000+ SKU product range across ball valves, gate valves, butterfly valves, globe valves. API 6D, CE, ISO 9001 certified. Pneumatic, electric, manual actuation. Export to 47 countries.",
+      "ogTitle": "ValveMaster - Industrial Flow Control Engineering",
+      "ogDesc": "12,000+ industrial valve SKUs. API 6D, ISO 9001 certified. Ball, gate, butterfly, globe valves. Pneumatic, electric, manual. Exported to 47 countries."
+    },
+    "products": {
+      "title": "Industrial Valve Products | Ball Valves, Gate Valves, Butterfly Valves",
+      "desc": "Complete industrial valve catalog. Ball valves, gate valves, butterfly valves, globe valves. Pneumatic, electric, manual actuation. PN10-Class 2500. API, ISO, CE certified."
+    },
+    "category": {
+      "title": "{name} | Industrial {name} Manufacturer - ValveMaster",
+      "desc": "Industrial {name} manufacturer. Pneumatic, electric, manual actuation. 304SS, 316L, WCB, CF8M. Flanged, threaded, weld. PN10-Class 2500. API, CE, ISO 9001 certified. {count}+ SKUs.",
+      "ogTitle": "{name} | ValveMaster Industrial Valves",
+      "schemaCategory": "Industrial Valves",
+      "schemaManufacturer": "ValveMaster Industrial Co., Ltd."
+    },
+    "attribute": {
+      "title": "{title} | ValveMaster",
+      "desc": "High-quality {title} manufacturer. {attrNames} configuration for industrial applications. API, CE, ISO 9001 certified.",
+      "ogTitle": "{title} - Industrial Flow Control",
+      "schemaCategory": "Industrial Valves > {name}"
+    },
+    "solutions": {
+      "title": "Valve Solutions by Industry | ValveMaster",
+      "desc": "Tailored industrial valve solutions for Oil & Gas, Chemical, Water Treatment, Power Generation, Pharmaceutical, and Marine industries. API, ATEX, FDA certified."
+    },
+    "industries": {
+      "title": "Industrial Valve Applications by Industry | Oil Gas Chemical Water Power",
+      "desc": "Industrial valve solutions for oil & gas, chemical, water treatment, power generation, pharmaceutical, and marine industries. API, ATEX, DNV, FDA certified valves."
+    },
+    "industryDetail": {
+      "title": "{name} Valve Solutions | ValveMaster",
+      "desc": "Certified industrial valves for {name} applications. API, ATEX, DNV certified manufacturing.",
+      "notFound": "Not Found"
+    },
+    "contact": {
+      "title": "Contact ValveMaster | Industrial Valve Sales & Technical Support",
+      "desc": "Contact ValveMaster for industrial valve sales, technical support, and custom engineering. Email, phone, WhatsApp. Based in Wenzhou, China. Export worldwide."
+    },
+    "rfq": {
+      "title": "Request a Valve Quote | Technical RFQ - ValveMaster",
+      "desc": "Request a technical quote for industrial valves. Specify actuation, material, connection, pressure rating. 4-hour response time. Full documentation included."
+    }
+  },
+  "data": {
+    "valves": {
+      "ball-valve": { "name": "Ball Valve", "cn": "球阀", "desc": "Quarter-turn rotary motion valve ideal for on/off control with low pressure drop." },
+      "gate-valve": { "name": "Gate Valve", "cn": "闸阀", "desc": "Linear motion valve for full bore flow in open/close applications." },
+      "butterfly-valve": { "name": "Butterfly Valve", "cn": "蝶阀", "desc": "Quarter-turn disc valve for large diameter throttling and isolation." },
+      "globe-valve": { "name": "Globe Valve", "cn": "截止阀", "desc": "Linear motion valve providing precise throttling and flow regulation." },
+      "check-valve": { "name": "Check Valve", "cn": "止回阀", "desc": "Automatic valve preventing backflow in pipelines." },
+      "needle-valve": { "name": "Needle Valve", "cn": "针阀", "desc": "Fine-threaded stem for precise flow control in instrument lines." },
+      "plug-valve": { "name": "Plug Valve", "cn": "旋塞阀", "desc": "Quarter-turn cylindrical or tapered plug for on/off and diverting service." },
+      "diaphragm-valve": { "name": "Diaphragm Valve", "cn": "隔膜阀", "desc": "Flexible membrane valve for corrosive media and sanitary applications." },
+      "relief-valve": { "name": "Safety Relief Valve", "cn": "安全阀", "desc": "Pressure relief device protecting systems from overpressure." },
+      "control-valve": { "name": "Control Valve", "cn": "调节阀", "desc": "Automated valve modulating flow in response to process control signals." },
+      "solenoid-valve": { "name": "Solenoid Valve", "cn": "电磁阀", "desc": "Electromechanically operated valve for automation and remote control." },
+      "sampling-valve": { "name": "Sampling Valve", "cn": "取样阀", "desc": "Aseptic sampling valve for QA/QC process validation." },
+      "knife-gate-valve": { "name": "Knife Gate Valve", "cn": "刀闸阀", "desc": "Slurry knife gate valve for sludge and wastewater handling." }
+    },
+    "actuations": {
+      "manual": { "name": "Manual", "label": "Handwheel / Lever" },
+      "pneumatic": { "name": "Pneumatic", "label": "Air Actuated" },
+      "electric": { "name": "Electric", "label": "Motor Actuated" },
+      "hydraulic": { "name": "Hydraulic", "label": "Fluid Actuated" }
+    },
+    "materials": {
+      "304ss": { "name": "304 Stainless Steel", "short": "304 SS" },
+      "316l": { "name": "316L Stainless Steel", "short": "316L" },
+      "wcb": { "name": "Carbon Steel WCB", "short": "WCB" },
+      "cf8m": { "name": "Cast Stainless CF8M", "short": "CF8M" },
+      "duplex": { "name": "Duplex Stainless 2205", "short": "Duplex" },
+      "pvc": { "name": "PVC / CPVC", "short": "PVC" }
+    },
+    "connections": {
+      "flanged": { "name": "Flanged", "standard": "ASME B16.5 / EN1092" },
+      "threaded": { "name": "Threaded", "standard": "NPT / BSP / BSPT" },
+      "socket-weld": { "name": "Socket Weld", "standard": "ASME B16.11" },
+      "butt-weld": { "name": "Butt Weld", "standard": "ASME B16.25" },
+      "wafer": { "name": "Wafer / Lug", "standard": "API 609" }
+    },
+    "pressures": {
+      "pn10": { "name": "PN10" },
+      "pn16": { "name": "PN16" },
+      "pn25": { "name": "PN25" },
+      "pn40": { "name": "PN40" },
+      "class150": { "name": "Class 150" },
+      "class300": { "name": "Class 300" },
+      "class600": { "name": "Class 600" }
+    },
+    "stats": {
+      "yearsMfg": "Years Manufacturing",
+      "countries": "Countries Exported",
+      "skuRange": "SKU Product Range",
+      "onTime": "On-Time Delivery Rate"
+    },
+    "certifications": {
+      "iso9001": { "name": "ISO 9001:2015", "desc": "Quality Management System", "year": "2019" },
+      "api6d": { "name": "API 6D", "desc": "Pipeline Valves Standard", "year": "2021" },
+      "ce": { "name": "CE Marking", "desc": "European Conformity PED 2014/68/EU", "year": "2020" },
+      "atex": { "name": "ATEX II 2GD", "desc": "Explosive Atmosphere Safety", "year": "2022" },
+      "bv": { "name": "Bureau Veritas", "desc": "Marine Type Approval", "year": "2021" },
+      "nace": { "name": "NACE MR0175", "desc": "H2S Sour Service Compliance", "year": "2023" }
+    }
+  },
+  "languages": {
+    "en": "English",
+    "zh": "中文",
+    "es": "Español",
+    "ar": "العربية",
+    "pt": "Português",
+    "fr": "Français",
+    "de": "Deutsch",
+    "hi": "हिन्दी"
+  }
+}
