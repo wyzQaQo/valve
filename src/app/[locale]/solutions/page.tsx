@@ -1,5 +1,3 @@
-export const dynamicParams = false;
-export const dynamicParams = false;
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { INDUSTRIES, BASE_TYPES } from '@/data/valves';

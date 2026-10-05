@@ -1,5 +1,3 @@
-export const dynamicParams = false;
-export const dynamicParams = false;
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowUpRight } from '@phosphor-icons/react/dist/ssr';
