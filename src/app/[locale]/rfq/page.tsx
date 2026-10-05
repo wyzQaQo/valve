@@ -1,4 +1,5 @@
 export const dynamicParams = false;
+export const dynamicParams = false;
 import type { Metadata } from 'next';
 import { RFQSection } from '@/components/home/RFQSection';
 
