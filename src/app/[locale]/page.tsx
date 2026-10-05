@@ -1,3 +1,4 @@
+export const dynamicParams = false;
 import type { Metadata } from 'next';
 import { HeroSection } from '@/components/home/HeroSection';
 import { ProductCategoriesSection } from '@/components/home/ProductCategoriesSection';
