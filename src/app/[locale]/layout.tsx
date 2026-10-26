@@ -8,6 +8,7 @@ import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
 import { WhatsAppButton } from '@/components/ui/WhatsAppButton';
 import { LanguageSwitcher } from '@/components/i18n/LanguageSwitcher';
+import GoogleAnalytics from '../components/GoogleAnalytics';
 
 type Props = {
   children: React.ReactNode;
@@ -27,7 +28,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: 'seo' });
 
   return {
-    metadataBase: new URL('https://valvemaster.com'),
+    metadataBase: new URL('https://100duplex.com'),
     title: {
       default: t('defaultTitle'),
       template: `%s | ValveMaster`,
@@ -74,6 +75,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'} className="dark">
       <body className="antialiased">
+        <GoogleAnalytics />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <div className="grain-overlay" aria-hidden="true" />
           <Navbar />

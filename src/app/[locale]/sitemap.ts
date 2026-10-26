@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { BASE_TYPES, INDUSTRIES, generateAllSeoCombos } from '@/data/valves';
 
-const BASE_URL = 'https://valvemaster.com';
+const BASE_URL = 'https://100duplex.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];

@@ -6,7 +6,7 @@ interface ComboSchemaProps {
 
 export function ComboSchema({ data }: ComboSchemaProps) {
   // Inject base product URL for the current valve type
-  const baseUrl = `https://valvemaster.com/products/${(data.name as string).split(' ').pop()?.toLowerCase().replace(/\s+/g, '-')}`;
+  const baseUrl = `https://100duplex.com/products/${(data.name as string).split(' ').pop()?.toLowerCase().replace(/\s+/g, '-')}`;
 
   return (
     <script

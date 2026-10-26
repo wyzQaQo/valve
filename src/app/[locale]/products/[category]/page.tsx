@@ -49,7 +49,7 @@ export default async function CategoryPage({ params }: PageProps) {
             manufacturer: {
               '@type': 'Organization',
               name: 'ValveMaster Industrial Co., Ltd.',
-              url: 'https://valvemaster.com',
+              url: 'https://100duplex.com',
             },
             category: 'Industrial Valves',
           }),
